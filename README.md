@@ -1,1 +1,1 @@
-# SEIS-739-final-project
+# SEIS-739-project
